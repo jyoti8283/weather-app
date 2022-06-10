@@ -140,14 +140,15 @@ body {
   position: relative;
   display: flex;
   justify-content: center;
+  margin-top: 61px;
 }
 
 .searchTerm {
-  width: 50%;
+  width: 60%;
   /* border: 3px solid #00b4cc; */
   border: none;
   padding: 16px;
-  height: 20px;
+  height: 43px;
   border-radius: 5px 0 0 5px;
   outline: none;
   font-size: 18px;
@@ -158,8 +159,8 @@ body {
 }
 
 .searchButton {
-  width: 80px;
-  height: 32px;
+  width: 147px;
+  height: 43px;
   border: none;
   background: #048b9c;
   text-align: center;
